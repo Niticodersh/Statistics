@@ -1,0 +1,45 @@
+
+PS D:\NITISH BHARDWAJ (B21AI056)> cd "d:\NITISH BHARDWAJ (B21AI056)\" ; if ($?) { g++ Q1andQ2.cpp -o Q1andQ2 } ; if ($?) { .\Q1andQ2 }
+
+
+Mean of the class : 6.38624
+Median of the class : 6.25
+Mode of the Class : 0 
+Variance of the Class : 15.0734
+Sample Variance : 15.1159
+
+Histogram
+
+Y-Axis -> No. of Students
+
+X-Axis -> Marks of Students
+
+X AXIS Bin / class range : 0.5 marks
+
+Y - AXIS 1 unit = 1 Student
+
+   20|xxx
+   19|xxx
+   18|xxx                                         xxx
+   17|xxx                         xxx             xxx     xxx xxx
+   16|xxx             xxx         xxx             xxx     xxx xxx     xxx xxx
+   15|xxx             xxx     xxx xxx     xxx     xxx xxx xxx xxx     xxx xxx
+   14|xxx             xxx     xxx xxx     xxx     xxx xxx xxx xxx xxx xxx xxx
+   13|xxx         xxx xxx     xxx xxx     xxx xxx xxx xxx xxx xxx xxx xxx xxx                 xxx
+   12|xxx         xxx xxx     xxx xxx     xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx             xxx         xxx
+   11|xxx         xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx         xxx         xxx
+   10|xxx         xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx     xxx xxx         xxx
+    9|xxx     xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx     xxx xxx         xxx
+    8|xxx     xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx     xxx xxx     xxx xxx
+    7|xxx     xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx     xxx xxx     xxx xxx
+    6|xxx     xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+    5|xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx         xxx
+    4|xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx     
+    3|xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx 
+    2|xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx 
+    1|xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx 
+    0|xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx 
+      --------------------------------------------------------------------------------------------------------------------------
+      0  0.5  1  1.5  2  2.5  3  3.5 4  4.5  5  5.5  6  6.5  7  7.5  8  8.5  9  9.5  10 10.5 11 11.5 12 12.5 13 13.5 14 14.5 15  15.5
+                                              Marks of Students ------->
+Owner : Nitish Bhardwaj (B21AI056)
